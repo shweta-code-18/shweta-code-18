@@ -20,6 +20,15 @@
 
 ---
 
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shweta-code-18&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shweta-code-18&theme=tokyonight" height="180"/>
+</p>
+
+---
+
 
 ### 🌐 Let's Connect & Collaborate
 
@@ -36,7 +45,7 @@
 
 ### 💬 My Motto
 
-> *I believe in continuous learning and constantly leveling up my skills.*
+> *"Progress lives between failed builds and better commits."*
 
 <p align="center">
   <img src="https://media.tenor.com/AMT-eMhjSywAAAAi/sappy-seals.gif" width="100px" alt="Coding GIF">

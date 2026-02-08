@@ -6,8 +6,8 @@
 
 <h1 align="center">🌟 Welcome to My Creative Coding Space!</h1> 
 
-### 👨‍💻 About Me
-- 🧑‍🎓 Pursuing **BCA (Bachelor of Computer Applications)**
+### 👩‍💻 About Me
+- 👩‍🎓 Pursuing **BCA (Bachelor of Computer Applications)**
 - 💻 Full Stack Developer | MERN Stack Enthusiast
 
 ---

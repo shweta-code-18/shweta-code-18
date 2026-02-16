@@ -9,6 +9,7 @@
 ### 👩‍💻 About Me
 - 👩‍🎓 Pursuing **BCA (Bachelor of Computer Applications)**
 - 💻 Full Stack Developer | MERN Stack Enthusiast
+- 📧 Contact me → **shwetadev.work@gmail.com**
 
 ---
 

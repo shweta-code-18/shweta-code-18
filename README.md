@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 - 👩‍🎓 Pursuing **BCA (Bachelor of Computer Applications)**
-- 💻 Full Stack Developer | MERN Stack Enthusiast
+- 💻 **Full Stack MERN Developer | Open Source Contributor | JWoC 2026**
 - 📧 Contact me → **shwetadev.work@gmail.com**
 
 ---

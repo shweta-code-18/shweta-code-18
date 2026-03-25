@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,github,vscode,office&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,mysql,bootstrap,git,github,postman,vscode,office&perline=15" alt="Tech Stack" />
 </p>
 
 ---

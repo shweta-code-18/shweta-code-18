@@ -22,11 +22,16 @@
 ---
 
 ### 📈 GitHub Stats & Activity
+ 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shweta-code-18&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shweta-code-18&theme=tokyonight" height="180"/>
-</p>
+![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shweta-code-18&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-code-18&layout=compact&theme=tokyonight)
+
+<!-- Force refresh and fallback protection -->
+![GitHub Streak](https://streak-stats.demolab.com?user=shweta-code-18&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9A00&ring=70A5FD&currStreakNum=F6E05E&sideLabels=70A5FD&currStreakLabel=F6E05E&stroke=70A5FD&v=2)
+
+</div>
 
 ---
 
